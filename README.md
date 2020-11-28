@@ -1,4 +1,4 @@
-# potassium
+# biphenyl
 
 A barebones test framework with testng, selenium, and restassured
 
